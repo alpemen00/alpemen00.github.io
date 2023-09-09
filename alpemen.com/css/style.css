@@ -1,0 +1,645 @@
+header {
+    border-bottom: 1px solid lightgray;
+}
+
+.navyblue-button {
+    background-color: #000080 !important;
+}
+
+.button-white {
+    background-color: #fff !important;
+    color: #000080 !important;
+}
+
+#mainBanner,
+#experience,
+#bannerSet,
+#projects,
+#experience2 {
+    background-image: url('../img/background-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#companies ul li {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #000080 !important;
+}
+
+.logos {
+    width: 100%;
+}
+
+.list-container {
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.list-container ul {
+    text-decoration: none;
+    padding-left: 25px;
+}
+
+#blog-banner h1 {
+    font-size: 32px;
+
+}
+
+#brand-icons {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+#brand a {
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+#experience .col-md-3 img {
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+
+}
+
+#experience .col-md-3 img:hover {
+    transform: scale(1.1);
+}
+
+.blog-title {
+    max-width: 900px;
+}
+
+.blog-image {
+    margin: 20px 0;
+    width: 100%;
+
+}
+
+.blog-image img {
+    width: 100%;
+
+}
+
+.blog-content h3 {
+    font-size: 20px;
+
+}
+
+#lp-text {
+    position: relative;
+    margin: auto 0;
+}
+
+.h2 {
+    font-size: 40px;
+}
+
+
+
+#lp-text .lp-text-title h2 {
+    margin-bottom: 20px;
+    font-size: 38px;
+}
+
+#lp-image {
+    position: relative;
+}
+
+#lp-image .lp-image-img {
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+}
+
+.list-container li {
+    margin-bottom: 5px;
+}
+
+#sidebar {
+    margin-top: 15px;
+    height: 400px;
+
+}
+
+
+#landing-body-2 {
+    background-image: url('../img/background-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#landing-body-2 .video-section {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.video-title {
+    margin-bottom: 35px;
+}
+
+.video-title h3 {
+    font-size: 40px;
+}
+
+
+
+.form-container {
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px;
+    width: 100%;
+    max-width: 500px;
+}
+
+#carousel-banner {
+    background-image: url('../img/background-image.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.logo-section {
+    width: 100%;
+}
+
+.btn-white {
+    font-size: 16px;
+    background-color: white;
+    color: #000080;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.logo-container {
+    box-shadow: 10px 10px 8px #888888;
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 50px 0px;
+    border-radius: 30px;
+    z-index: 99;
+}
+
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel-slide {
+    display: none;
+    width: 100%;
+    text-align: center;
+}
+
+.carousel-slide img {
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.open-for-work {
+    background-color: #000080;
+    color: white;
+    vertical-align: center;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.col-md-6 img {
+    margin: 0 auto;
+}
+
+.progression-image {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height: 100%;
+}
+
+#sidebar aside {
+    border: 1px solid lightgray;
+    height: 400px;
+    width: 350px;
+}
+
+#blog-aside {
+    border: 1px solid lightgray;
+
+    /*box-shadow: 20px -17px 4px 2px rgba(0, 0, 0, 0.19);*/
+}
+
+.blog-list {
+    padding-right: 20px;
+}
+
+.aside-body ol li {
+    list-style: none;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.aside-body ol {
+    padding-left: 5px;
+}
+
+.aside-body ol li a {
+    text-decoration: none;
+    transition: 0.5s;
+
+}
+
+.aside-body ol li a:hover {
+    text-decoration: underline;
+
+}
+
+#mainBanner .banner h1 {
+    animation: 3s ease-in 1s 2 reverse both paused slidein;
+}
+
+#asideHeader {
+    padding: 15px;
+
+}
+
+.newsletter-form-container {
+    margin-top: 30px;
+}
+
+.newsletter-form-container form {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.newsletter-form-container form input {
+    max-width: 300px;
+    margin-right: 10px;
+}
+
+.blog-intro {
+    max-width: 700px;
+}
+
+#mainBanner h1 {
+    width: 100%;
+    transition: 0.5s;
+
+}
+
+#mainBanner h1:hover {
+    transform: scale(1.1);
+}
+
+.button-white:hover {
+    background-color: #fff;
+    color: red !important;
+    transition: 0.6s;
+
+}
+
+.bg-gray {
+    background: lightgray;
+
+}
+
+#topFooter .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* #bioInfo .card img {
+    width: 100%;
+    transition: 0.8s all ease-in-out;
+    overflow: hidden;
+}
+
+#bioInfo .card:hover img {
+    transform: scale(1.1);
+    overflow: hidden;
+}
+
+#bioInfo .card .card-body h5 {
+    transition: 0.8s all ease-in-out;
+
+}
+
+#bioInfo .card:hover .card-body h5 {
+    color: #000080;
+    font-size: 23px;
+} */
+
+.form-container {
+    box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.performance-icons .icons {
+    margin-left: 30px;
+}
+
+.performance-icons .icons .icon-group {
+    margin-bottom: 8px;
+}
+
+.performance-icons .icons i {
+    margin-right: 8px;
+}
+
+.btn-primary {
+    background-color: white !important;
+    color: #000080 !important;
+    border: 1px solid #fff !important;
+}
+
+
+.card {
+    width: 100%;
+    transition: 0.8s;
+}
+
+.card:hover {
+    box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup {
+    background: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#closeBtn {
+    background: #000080;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.card-body {
+    border-top: 1px solid #000;
+}
+
+
+
+.bg-linear-color {
+    background-color: #ffffff;
+    background-image: linear-gradient(to top bottom, #ffffff 0%, #d7e1ec 74%);
+}
+
+
+.bg-navy {
+    background-color: #000080 !important;
+}
+
+.blue-button {
+    background-color: #000080 !important;
+    color: #fff !important;
+}
+
+.purple-button:hover {
+    background-color: red !important;
+    transition: 0.3s;
+}
+
+#privacyPolicy .col-md-12 h1 {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
+}
+
+.privacyPolicy-p {
+    margin-bottom: 25px;
+}
+
+#privacyPolicy li {
+    margin-bottom: 5px;
+}
+
+#privacyPolicy h5 {
+    color: #000080;
+    font-size: 25px;
+}
+
+#privacyPolicy .col-md-12 {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+
+.outline-button {
+    border: 2px solid #000080 !important;
+}
+
+.outline-button:hover {
+    border: 2px solid red !important;
+    transition: 0.3s;
+    color: red !important;
+}
+
+.icons i {
+    color: #000080;
+    transition: 0.5s;
+}
+
+.icons i:hover {
+    color: red;
+    border-bottom: 1px solid red;
+    padding-bottom: 3px;
+}
+
+#topFooter .icons i {
+    color: #fff !important;
+}
+
+#bannerSet section {
+    background-color: #E8E8E8
+}
+
+#aboutMe section {
+    border-bottom: 2px solid #000 !important;
+}
+
+.box2 {
+    margin: 20px 0px;
+}
+
+.bg-navy {
+    background-color: #000080;
+
+}
+
+#frontendProjects .col-md-3 {
+    display: flex;
+    justify-content: center;
+}
+
+
+#author img {
+    width: 80%;
+}
+
+
+
+.contact-us-image {
+    position: relative;
+}
+
+#topFooter .row {
+    display: flex;
+    align-items: center;
+}
+
+@media(max-width: 768px) {
+
+    small,
+    p {
+        font-size: 14px !important;
+    }
+
+    #mainBanner img {
+        margin-top: 20px;
+    }
+
+    #tools {
+        max-width: 100%;
+    }
+
+    #topHeader .col-md-6 {
+        text-align: center !important;
+    }
+
+    .box {
+        margin: 20px 0px;
+    }
+
+    #experience-logos img {
+        width: 100%;
+    }
+
+
+    #banner {
+        margin: auto;
+        width: 95%;
+    }
+
+    #banner-image img {
+        width: 100% !important;
+    }
+
+    #footer .mb-box {
+        margin-bottom: 30px;
+    }
+
+    #aboutMe-vbanner {
+        margin-bottom: 20px;
+    }
+
+    #progression .progression-image img {
+        width: 100%;
+
+    }
+
+    .performance-icons .icons {
+        display: block;
+    }
+
+    .icon-group small {
+        font-size: 18px !important;
+    }
+
+    .video-container iframe {
+        max-width: 325px !important;
+    }
+
+    #blogRow {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    #social-icons {
+        display: none;
+    }
+
+    .blog-list {
+        padding-right: 0px !important;
+    }
+
+
+    .blog-text-button a {
+        margin: 0 auto;
+        margin-right: 0px !important;
+    }
+
+    .logo-container img {
+        width: 100%;
+        margin-bottom: 20px;
+
+    }
+
+    .card {
+        margin: 0 auto;
+        box-shadow: 10px 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        width: 85%;
+        margin-bottom: 15px;
+    }
+
+    #tools {
+        max-width: 100% !important;
+    }
+
+    .popup {
+        margin: 0 20px;
+    }
+
+
+    #CTA h3 {
+        font-size: 25px !important;
+    }
+
+    #CTA p {
+        max-width: 100% !important;
+    }
+
+    #topFooter img {
+        display: none;
+    }
+
+    #a-logo {
+        display: none;
+    }
+}
